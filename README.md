@@ -11,3 +11,5 @@ Lakukan import file text_widget.dart ke main.dart, lalu ganti bagian text widget
 Output Final Paktikum 3
 
 ![screenshot output final praktikum 3](images/03.png)
+
+![screenshoot output final praktikum 3](images/04.png)
