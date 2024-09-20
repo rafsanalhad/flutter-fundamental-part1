@@ -1,9 +1,10 @@
 # Muhammad Harafsan Alhad
 
-Muhammad Harafsan Alhad
+Output Praktikum 1
 
 ![screenshot hello_world](images/01.png)
 
+Output Praktikum 2
 Lakukan import file text_widget.dart ke main.dart, lalu ganti bagian text widget dengan kode di atas. Maka hasilnya seperti gambar berikut. Screenshot hasil milik Anda, lalu dibuat laporan pada file README.md.
 
 ![screenshot text_widget output in main](images/02.png)
